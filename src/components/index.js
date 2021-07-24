@@ -1,2 +1,2 @@
 export * from './Example'
-export * from './Table'
+export * from './Button'
